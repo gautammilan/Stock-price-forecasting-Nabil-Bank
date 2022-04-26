@@ -9,4 +9,4 @@ There are two types of models that are widely used for time series analysis they
 
 2. Multi-step model= In a multi-step prediction, the model needs to learn to predict a range of future values. Thus, unlike a single-step model, where only a single future point is predicted, a multi-step model predicts a sequence of the future values. The autoregressive model is used for this task.
 
-For more information please visit this article here 
+For more information please visit this article here https://gautammilan.github.io/post/stock-price-analysis/
